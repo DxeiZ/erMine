@@ -6,9 +6,13 @@ Follow the steps for setup.
 ```
 
 Install your file on your computer and log in.
+
 `Shift + Right` click and click the `Open with powershell` or `cmd` box.
+
 Type `npm i` there and wait for the packages to be installed.
+
 After the download is complete, open the `config.json` file in the folder and fill in it.
+
 **`Example:`**
 * `"prefix": "er!",`
 * `"owner": "837008124941959178",`
