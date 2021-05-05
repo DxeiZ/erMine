@@ -1,0 +1,20 @@
+{
+  "name": "ermine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "mineflayer": "^3.6.0",
+    "moment": "^2.29.1",
+    "wio.db": "^4.0.20"
+  }
+}
